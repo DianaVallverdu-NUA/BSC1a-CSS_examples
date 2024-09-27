@@ -5,12 +5,12 @@
 
 /* specific flex and width for small elements */
 .flex_width_height {
-  width: 20px;
-  height: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}ß
+width: 20px;
+height: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
 
 /* pink background */
 #pinkBg {
@@ -30,11 +30,11 @@
 #myname {
   text-decoration: underline;
   font-size: 1.5rem;
-  color: blue;
+  color:blue;
 }
 
 /* big dogs style */
-.dogsbig {
+.dogsbig{
   background-color: pink;
 }
 
@@ -47,6 +47,4 @@
   padding: 10px;
 }
 
-.aei {
-  opacity: 0.5;
-}
+.aei {opacity: 0.5;}
